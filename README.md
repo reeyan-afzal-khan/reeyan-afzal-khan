@@ -10,7 +10,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
-      <a href="https://www.facebook.com/reeyanafzal1999/">
+      <a href="https://www.facebook.com/khan.reeyanafzal/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/>
       </a>
     </td>
