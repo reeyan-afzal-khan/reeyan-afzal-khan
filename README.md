@@ -5,7 +5,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 15px;">
-      <a href='https://www.linkedin.com/in/reeyan-afzal/'>
+      <a href='https://www.linkedin.com/in/reeyan-afzal-khan/'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/>
       </a>
     </td>
