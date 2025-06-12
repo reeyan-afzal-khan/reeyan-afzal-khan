@@ -29,6 +29,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
     <th align="center" style="padding: 0 15px;">Coursera</th>
     <th align="center" style="padding: 0 15px;">LeetCode</th>
     <th align="center" style="padding: 0 15px;">HackerRank</th>
+    <th align="center" style="padding: 0 15px;">Credly</th>
   </tr>
   <tr>
     <td align="center" style="padding: 0 15px;">
