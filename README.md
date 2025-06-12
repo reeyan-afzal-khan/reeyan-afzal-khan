@@ -51,6 +51,11 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
         <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="HackerRank" alt="HackerRank" width="55" height="55"/>
       </a>
     </td>
+     <td align="center" style="padding: 0 15px;">
+      <a href='https://www.credly.com/users/reeyan-afzal-khan'>
+        <img src="https://www.svgrepo.com/show/331358/credly.svg" title="Credly" alt="Credly" width="55" height="55"/>
+      </a>
+    </td>
   </tr>
 </table>
 
