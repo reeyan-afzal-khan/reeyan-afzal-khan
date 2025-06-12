@@ -32,22 +32,22 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
   </tr>
   <tr>
     <td align="center" style="padding: 0 15px;">
-      <a href='https://www.freecodecamp.org/reeyan-afzal'>
+      <a href='https://www.freecodecamp.org/reeyan-afzal-khan'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="65" height="50"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
-      <a href='https://www.coursera.org/learner/reeyan-afzal'>
+      <a href='https://www.coursera.org/learner/reeyan-afzal-khan'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png" title="Coursera" alt="Coursera" width="55" height="55"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
-      <a href='https://leetcode.com/u/reeyan-afzal/'>
+      <a href='https://leetcode.com/u/reeyan-afzal-khan/'>
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="LeetCode" alt="LeetCode" width="55" height="55"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
-      <a href='https://www.hackerrank.com/profile/reeyanafzal1999'>
+      <a href='https://www.hackerrank.com/profile/reeyanafzalkhan'>
         <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="HackerRank" alt="HackerRank" width="55" height="55"/>
       </a>
     </td>
