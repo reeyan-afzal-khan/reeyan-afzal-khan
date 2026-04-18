@@ -34,7 +34,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.coursera.org/learner/reeyan-afzal-khan'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/960px-Coursera-Logo_600x600.svg.png)" title="Coursera" alt="Coursera" width="55" height="55"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWW30NrjcO_eDH65ImeBtkJLA4Z8iVn0FHQ&s" title="Coursera" alt="Coursera" width="55" height="55"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
