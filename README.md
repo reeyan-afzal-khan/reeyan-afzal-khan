@@ -1,8 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-### About Me:  
-
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN), LSTM, and LLMs. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess with 1+ years of experience in Python and SQL. 我也学了中文已经差不多三年半了
 <h4 align="center">CONNECT WITH ME</h4>
 <table align="center">
   <tr>
