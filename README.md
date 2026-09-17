@@ -17,12 +17,18 @@
 <h4 align="center">PROFILE & PORTFOLIO</h4>
 <table align="center">
   <tr>
+    <th align="center" style="padding: 0 15px;">ORCID</th>
     <th align="center" style="padding: 0 15px;">freeCodeCamp</th>
     <th align="center" style="padding: 0 15px;">LeetCode</th>
     <th align="center" style="padding: 0 15px;">HackerRank</th>
     <th align="center" style="padding: 0 15px;">Credly</th>
   </tr>
   <tr>
+    <td align="center" style="padding: 0 15px;">
+      <a href='https://orcid.org/my-orcid?orcid=0009-0009-2547-2067)'>
+        <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" title="ORCID" alt="orcid" width="65" height="50"/>
+      </a>
+    </td>
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.freecodecamp.org/reeyan-afzal-khan'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="65" height="50"/>
