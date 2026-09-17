@@ -18,7 +18,6 @@
 <table align="center">
   <tr>
     <th align="center" style="padding: 0 15px;">freeCodeCamp</th>
-    <th align="center" style="padding: 0 15px;">Coursera</th>
     <th align="center" style="padding: 0 15px;">LeetCode</th>
     <th align="center" style="padding: 0 15px;">HackerRank</th>
     <th align="center" style="padding: 0 15px;">Credly</th>
@@ -27,11 +26,6 @@
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.freecodecamp.org/reeyan-afzal-khan'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="65" height="50"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 0 15px;">
-      <a href='https://www.coursera.org/learner/reeyan-afzal-khan'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/960px-Coursera-Logo_600x600.svg.png" title="Coursera" alt="Coursera" width="55" height="55"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
