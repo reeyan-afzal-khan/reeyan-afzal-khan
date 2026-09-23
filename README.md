@@ -77,7 +77,7 @@
 
 
 ### OS:
-| MacOS | Windows | Arch
+| MacOS | Windows | Linux (Arch)
 |:--------:|:--------:|:--------:|
 |<img align="center" src="https://img.icons8.com/color/200/mac-logo.png" title="MacOS" alt="MacOS" width="60" height="60"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>
 
