@@ -1,0 +1,5 @@
+# This repository holds the baked profile page only: README.md and the files it
+# shows. They are built with LF line endings; keep them that way, so a rebuild
+# shows no change where nothing changed.
+README.md text eol=lf
+*.svg     text eol=lf
