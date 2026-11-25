@@ -1,9 +1,21 @@
+<h3 align="center">BACKGROUND &amp; INTRODUCTION</h3>
+
+<p align="justify">
+  Reeyan Afzal Khan holds a bachelor's degree in Computer Science from Kohat University of Science &amp; Technology (KUST) and a Master's degree in Information Technology from Universiti Teknologi PETRONAS (UTP). His technical expertise is backed by professional certifications from Google, Meta, and IBM. Additionally, he is a fluent speaker of Mandarin Chinese, supported by language certifications from Peking University and Shanghai Jiao Tong University, and holds official proficiency credentials in both IELTS (Band 7.0) and HSK Level 4.
+</p>
+
+<p align="justify">
+  Bringing international teaching experience from his tenure as a Graduate Research Assistant (GRA), Reeyan has mentored students through lab sessions and Final Year Projects (FYPs) and taught courses such as Algorithms &amp; Data Structures, Data Science, Machine Learning, and Enterprise Resource Planning.
+</p>
+
+<p align="justify">
+  Driven by a passion for collaboration, innovation, and continuous growth, Reeyan actively applies his technical and leadership skills to create a positive impact. Previously, he also served as a Vice President (Inbound) of the DC-PGSC at UTP, where he assisted in the coordination of hybrid workshops and resolved key logistical challenges to strengthen support for the postgraduate computing community.
+</p>
+
 <!--
   Generated from Typst sources kept outside this repository; edits made here
   are overwritten by the next build.
 -->
-
-<p align="center"><img src="assets/YT-LK-Banner.png" width="100%" alt="Banner" /></p>
 
 <h4 align="center">CONNECT WITH ME</h4>
 <table align="center">
@@ -70,23 +82,9 @@
   </tr>
 </table>
 
-<p align="center"><img src="assets/drawings/divider.svg" width="100%" alt="" /></p>
-
-<h3 align="center">Hi, I'm Reeyan (瑞琰)</h3>
-
-<p align="justify">
-  Reeyan Afzal Khan holds a bachelor's degree in Computer Science from Kohat University of Science &amp; Technology and a Master's degree in Information Technology from Universiti Teknologi PETRONAS (UTP). His technical expertise is backed by professional certifications from Google, Meta, and IBM. Additionally, he is a fluent speaker of Mandarin Chinese, supported by language certifications from Peking University and Shanghai Jiao Tong University, and holds official proficiency credentials in both IELTS (Band 7.0) and HSK Level 4.
-</p>
-
-<p align="justify">
-  Bringing international teaching experience from his tenure as a Graduate Research Assistant (GRA), Reeyan has mentored students through lab sessions and Final Year Projects (FYPs) and taught courses such as Algorithms &amp; Data Structures, Data Science, Machine Learning, and Enterprise Resource Planning.
-</p>
-
-<p align="justify">
-  Driven by a passion for collaboration, innovation, and continuous growth, Reeyan actively applies his technical and leadership skills to create a positive impact. Previously, he also served as a Vice President (Inbound) of the DC-PGSC at UTP, where he assisted in the coordination of hybrid workshops and resolved key logistical challenges to strengthen support for the postgraduate computing community.
-</p>
-
 <p align="center"><img src="assets/drawings/repo-tree.svg" width="100%" alt="Repo tree: every repository grouped into Research, Projects, Courses &amp; Workshops and Private Repositories; private ones are dashed, with a padlock." /></p>
+
+<p align="center"><img src="assets/drawings/divider.svg" width="100%" alt="" /></p>
 
 <!-- ======================= OPEN NOTEBOOK: PUBLIC REPOSITORIES ======================= -->
 
@@ -124,150 +122,74 @@
 
 <p align="center"><img src="assets/drawings/cards/tools.svg" width="49%" alt="tools: Personal Toolkit (private)" /></p>
 
+<p align="center"><img src="assets/drawings/divider.svg" width="100%" alt="" /></p>
+
 <!-- ======================= DOCUMENTS ======================= -->
 
 <p align="center"><img src="assets/drawings/strips/documents.svg" alt="Documents: certificates and letters" /></p>
 
-<div align="center">
-<details open>
-  <summary><b>Certificates and experience letters for my CV</b></summary>
-  <br/>
 <table align="center">
-  <tbody><tr><th align="left" valign="top" width="818"><img src="assets/drawings/icons/briefcase.svg" width="24" height="24" align="top" alt="" /> Experience</th></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/documents/experience-1-utp.svg" width="48" height="216" align="left" alt="UTP logo" />
-    <b>Universiti Teknologi PETRONAS</b><br/>
-    Perak, Malaysia<br/>
-    <b>Vice President (Inbound), DC-PGSC</b><br/>
-    <sub>Jan 2024 to present</sub><br/>
-    <img src="assets/drawings/icons/file.svg" width="16" height="24" align="top" alt="" /> <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-DC-PGSC.jpeg">Experience letter</a><br/>
-    <br/>
-    <b>Graduate Research Assistant (GRA)</b><br/>
-    <sub>Jan 2024 to present</sub><br/>
-    <img src="assets/drawings/icons/file.svg" width="16" height="24" align="top" alt="" /> <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-GRA.jpeg">Experience letter</a>
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/documents/experience-2-nic.svg" width="48" height="96" align="left" alt="NIC logo" />
-    <b>Founder and app developer, Hanzai</b><br/>
-    NEP-NIC (PITB), Kohat<br/>
-    <sub>Sep 2022 to Feb 2023</sub><br/>
-    <img src="assets/drawings/icons/file.svg" width="16" height="24" align="top" alt="" /> <a href="assets/documents/Reeyan-Afzal-Experience-Letter-NEP-NIC.jpeg">Experience letter</a>
-  </td></tr></tbody>
-  <tbody><tr><th align="left" valign="top"><img src="assets/drawings/icons/cap.svg" width="24" height="24" align="top" alt="" /> Education</th></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/documents/education-1-utp.svg" width="48" height="72" align="left" alt="UTP logo" />
-    <b>Universiti Teknologi PETRONAS</b><br/>
-    MSc Information Technology<br/>
-    <img src="assets/drawings/icons/file.svg" width="16" height="24" align="top" alt="" /> <a href="assets/documents/Reeyan-Afzal-MSc-Degree.jpeg">Degree</a> · <a href="assets/documents/Reeyan-Afzal-MSc-Transcript.jpeg">Transcript</a>
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/documents/education-2-kust.svg" width="48" height="72" align="left" alt="KUST logo" />
-    <b>Kohat University of Science and Technology</b><br/>
-    BS Computer Science<br/>
-    <img src="assets/drawings/icons/file.svg" width="16" height="24" align="top" alt="" /> <a href="assets/documents/Reeyan-Afzal-BS-Degree.jpeg">Degree</a> · <a href="assets/documents/Reeyan-Afzal-BS-Transcript.jpeg">Transcript</a>
-  </td></tr></tbody>
-  <tbody><tr><th align="left" valign="top"><img src="assets/drawings/icons/award.svg" width="24" height="24" align="top" alt="" /> Language Proficiency</th></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/documents/language-1-ielts.svg" width="48" height="96" align="left" alt="IELTS logo" />
-    <b>IELTS Academic, band 7.0 (C1)</b><br/>
-    English<br/>
-    <sub>2023 to 2025</sub><br/>
-    <img src="assets/drawings/icons/file.svg" width="16" height="24" align="top" alt="" /> <a href="assets/documents/Reeyan-Afzal-Certificate-IELTS-2023.jpeg">Certificate</a>
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/documents/language-2-hsk.svg" width="48" height="96" align="left" alt="HSK logo" />
-    <b>HSK 4 and HSKK 2</b><br/>
-    Chinese (Mandarin)<br/>
-    <sub>2024 to 2026</sub><br/>
-    <img src="assets/drawings/icons/file.svg" width="16" height="24" align="top" alt="" /> <a href="assets/documents/Reeyan-Afzal-Certificate-HSK4-2024.jpeg">Certificate</a>
+  <tbody><tr><td align="left" valign="top" width="845">
+    <h3><a name="experience-icon"><img src="assets/drawings/icons/briefcase.svg" width="28" height="20" align="absmiddle" alt="" /></a>Experience</h3>
+    <img src="assets/drawings/documents/experience-1-utp.svg" width="48" height="168" align="left" alt="UTP logo" />
+    <b>Universiti Teknologi PETRONAS</b><a name="experience-1-utp-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    Perak, Malaysia<a name="experience-1-utp-2-end"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br/>
+    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-DC-PGSC.jpeg"><img src="assets/drawings/documents/tag-experience-letter-48.svg" width="141" height="48" align="right" alt="Experience letter" /></a><b>Vice President (Inbound), DC-PGSC</b><a name="experience-1-utp-3-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    <a name="experience-1-utp-4"><img src="assets/drawings/documents/dates-jan-2025-present.svg" width="102" height="24" align="top" alt="Jan 2025 – Present" /></a><a name="experience-1-utp-4-end"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br/>
+    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-GRA.jpeg"><img src="assets/drawings/documents/tag-experience-letter-48.svg" width="141" height="48" align="right" alt="Experience letter" /></a><b>Graduate Research Assistant (GRA)</b><a name="experience-1-utp-5-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    <a name="experience-1-utp-6"><img src="assets/drawings/documents/dates-jan-2025-present.svg" width="102" height="24" align="top" alt="Jan 2025 – Present" /></a><br clear="all"/>
+    <a name="experience-rule-1"><img src="assets/drawings/documents/rule.svg" width="818" height="25" align="top" alt="" /></a><br/>
+    <img src="assets/drawings/documents/experience-2-nic.svg" width="48" height="72" align="left" alt="NIC logo" />
+    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-NEP-NIC.jpeg"><img src="assets/drawings/documents/tag-experience-letter-72.svg" width="141" height="72" align="right" alt="Experience letter" /></a><b>Founder and app developer, Hanzai</b><a name="experience-2-nic-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    NEP-NIC (PITB), Kohat<a name="experience-2-nic-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    <a name="experience-2-nic-3"><img src="assets/drawings/documents/dates-sep-2022-feb-2023.svg" width="109" height="24" align="top" alt="Sep 2022 – Feb 2023" /></a><br clear="all"/>
+    <a name="experience-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a>
   </td></tr></tbody>
 </table>
-</details>
-</div>
+<table align="center">
+  <tbody><tr><td align="left" valign="top" width="845">
+    <h3><a name="education-icon"><img src="assets/drawings/icons/cap.svg" width="28" height="20" align="absmiddle" alt="" /></a>Education</h3>
+    <img src="assets/drawings/documents/education-1-utp.svg" width="48" height="48" align="left" alt="UTP logo" />
+    <a href="assets/documents/Reeyan-Afzal-MSc-Transcript.jpeg"><img src="assets/drawings/documents/tag-transcript-48.svg" width="103" height="48" align="right" alt="Transcript" /></a><a href="assets/documents/Reeyan-Afzal-MSc-Degree.jpeg"><img src="assets/drawings/documents/tag-degree-48.svg" width="86" height="48" align="right" alt="Degree" /></a><b>Universiti Teknologi PETRONAS</b><a name="education-1-utp-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    MSc Information Technology<a name="education-1-utp-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br clear="all"/>
+    <a name="education-rule-1"><img src="assets/drawings/documents/rule.svg" width="818" height="25" align="top" alt="" /></a><br/>
+    <img src="assets/drawings/documents/education-2-kust.svg" width="48" height="48" align="left" alt="KUST logo" />
+    <a href="assets/documents/Reeyan-Afzal-BS-Transcript.jpeg"><img src="assets/drawings/documents/tag-transcript-48.svg" width="103" height="48" align="right" alt="Transcript" /></a><a href="assets/documents/Reeyan-Afzal-BS-Degree.jpeg"><img src="assets/drawings/documents/tag-degree-48.svg" width="86" height="48" align="right" alt="Degree" /></a><b>Kohat University of Science and Technology</b><a name="education-2-kust-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    BS Computer Science<a name="education-2-kust-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br clear="all"/>
+    <a name="education-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a>
+  </td></tr></tbody>
+</table>
+<table align="center">
+  <tbody><tr><td align="left" valign="top" width="845">
+    <h3><a name="language-proficiency-icon"><img src="assets/drawings/icons/language.svg" width="28" height="20" align="absmiddle" alt="" /></a>Language Proficiency</h3>
+    <img src="assets/drawings/documents/language-1-ielts.svg" width="48" height="72" align="left" alt="IELTS logo" />
+    <a href="assets/documents/Reeyan-Afzal-Certificate-IELTS-2023.jpeg"><img src="assets/drawings/documents/tag-certificate-72.svg" width="105" height="72" align="right" alt="Certificate" /></a><b>IELTS Academic, band 7.0 (C1)</b><a name="language-1-ielts-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    English<a name="language-1-ielts-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    <a name="language-1-ielts-3"><img src="assets/drawings/documents/dates-2023-2025.svg" width="64" height="24" align="top" alt="2023 – 2025" /></a><br clear="all"/>
+    <a name="language-rule-1"><img src="assets/drawings/documents/rule.svg" width="818" height="25" align="top" alt="" /></a><br/>
+    <img src="assets/drawings/documents/language-2-hsk.svg" width="48" height="72" align="left" alt="HSK logo" />
+    <a href="assets/documents/Reeyan-Afzal-Certificate-HSK4-2024.jpeg"><img src="assets/drawings/documents/tag-certificate-72.svg" width="105" height="72" align="right" alt="Certificate" /></a><b>HSK 4 and HSKK 2</b><a name="language-2-hsk-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    Chinese (Mandarin)<a name="language-2-hsk-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
+    <a name="language-2-hsk-3"><img src="assets/drawings/documents/dates-2024-2026.svg" width="64" height="24" align="top" alt="2024 – 2026" /></a><br clear="all"/>
+    <a name="language-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a>
+  </td></tr></tbody>
+</table>
+
+<p align="center"><img src="assets/drawings/divider.svg" width="100%" alt="" /></p>
 
 <!-- ======================= SKILLS & TOOLS ======================= -->
 
 <p align="center"><img src="assets/drawings/strips/skills.svg" alt="Skills and tools, by area" /></p>
 
-<table align="center">
-  <tbody><tr><td align="left" valign="top" width="818">
-    <img src="assets/drawings/skills/research-ml.svg" width="48" height="48" align="left" alt="" />
-    <b>Research &amp; ML</b><br/>
-    <img src="assets/drawings/badges/python.svg" align="top" alt="Python" title="Python" />
-    <img src="assets/drawings/badges/pytorch.svg" align="top" alt="PyTorch" title="PyTorch" />
-    <img src="assets/drawings/badges/scikitlearn.svg" align="top" alt="scikit-learn" title="scikit-learn" />
-    <img src="assets/drawings/badges/numpy.svg" align="top" alt="NumPy" title="NumPy" />
-    <img src="assets/drawings/badges/pandas.svg" align="top" alt="pandas" title="pandas" />
-    <img src="assets/drawings/badges/jupyter.svg" align="top" alt="Jupyter" title="Jupyter" />
-    <img src="assets/drawings/badges/anaconda.svg" align="top" alt="Anaconda" title="Anaconda" />
-    <img src="assets/drawings/badges/latex.svg" align="top" alt="LaTeX" title="LaTeX" />
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/skills/edge-ai.svg" width="48" height="48" align="left" alt="" />
-    <b>Edge AI</b><br/>
-    <img src="assets/drawings/badges/nvidia.svg" align="top" alt="NVIDIA Jetson" title="NVIDIA Jetson" />
-    <img src="assets/drawings/badges/intel.svg" align="top" alt="Intel OpenVINO" title="Intel OpenVINO" />
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/skills/speech-nlp.svg" width="48" height="48" align="left" alt="" />
-    <b>Speech &amp; NLP</b><br/>
-    <img src="assets/drawings/badges/huggingface.svg" align="top" alt="Hugging Face" title="Hugging Face" />
-    <img src="assets/drawings/badges/ffmpeg.svg" align="top" alt="FFmpeg" title="FFmpeg" />
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/skills/apps-web.svg" width="48" height="48" align="left" alt="" />
-    <b>Apps &amp; web</b><br/>
-    <img src="assets/drawings/badges/flutter.svg" align="top" alt="Flutter" title="Flutter" />
-    <img src="assets/drawings/badges/dart.svg" align="top" alt="Dart" title="Dart" />
-    <img src="assets/drawings/badges/javascript.svg" align="top" alt="JavaScript" title="JavaScript" />
-    <img src="assets/drawings/badges/rust.svg" align="top" alt="Rust" title="Rust" />
-    <img src="assets/drawings/badges/webassembly.svg" align="top" alt="WebAssembly" title="WebAssembly" />
-    <img src="assets/drawings/badges/nodedotjs.svg" align="top" alt="Node.js" title="Node.js" />
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/skills/data-bi.svg" width="48" height="48" align="left" alt="" />
-    <b>Data &amp; BI</b><br/>
-    <img src="assets/drawings/badges/mysql.svg" align="top" alt="MySQL" title="MySQL" />
-    <img src="assets/drawings/badges/postgresql.svg" align="top" alt="PostgreSQL" title="PostgreSQL" />
-    <img src="assets/drawings/badges/sqlite.svg" align="top" alt="SQLite" title="SQLite" />
-    <img src="assets/drawings/badges/apachespark.svg" align="top" alt="Apache Spark" title="Apache Spark" />
-    <img src="assets/drawings/badges/tableau.svg" align="top" alt="Tableau" title="Tableau" />
-    <img src="assets/drawings/badges/matplotlib.svg" align="top" alt="Matplotlib" title="Matplotlib" />
-    <img src="assets/drawings/badges/seaborn.svg" align="top" alt="Seaborn" title="Seaborn" />
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/skills/python-frameworks.svg" width="48" height="48" align="left" alt="" />
-    <b>Python frameworks</b><br/>
-    <img src="assets/drawings/badges/opencv.svg" align="top" alt="OpenCV" title="OpenCV" />
-    <img src="assets/drawings/badges/django.svg" align="top" alt="Django" title="Django" />
-    <img src="assets/drawings/badges/qt.svg" align="top" alt="PyQt" title="PyQt" />
-    <img src="assets/drawings/badges/pygame.svg" align="top" alt="PyGame" title="PyGame" />
-    <img src="assets/drawings/badges/selenium.svg" align="top" alt="Selenium" title="Selenium" />
-    <img src="assets/drawings/badges/pytest.svg" align="top" alt="pytest" title="pytest" />
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/skills/teaching.svg" width="48" height="48" align="left" alt="" />
-    <b>Teaching</b><br/>
-    <img src="assets/drawings/badges/typst.svg" align="top" alt="Typst" title="Typst" />
-    <img src="assets/drawings/badges/r.svg" align="top" alt="R" title="R" />
-    <img src="assets/drawings/badges/c.svg" align="top" alt="C" title="C" />
-    <img src="assets/drawings/badges/cplusplus.svg" align="top" alt="C++" title="C++" />
-    <img src="assets/drawings/badges/gnubash.svg" align="top" alt="Bash" title="Bash" />
-  </td></tr></tbody>
-  <tbody><tr><td align="left" valign="top">
-    <img src="assets/drawings/skills/tooling-platforms.svg" width="48" height="72" align="left" alt="" />
-    <b>Tooling &amp; platforms</b><br/>
-    <img src="assets/drawings/badges/git.svg" align="top" alt="Git" title="Git" />
-    <img src="assets/drawings/badges/docker.svg" align="top" alt="Docker" title="Docker" />
-    <img src="assets/drawings/badges/postman.svg" align="top" alt="Postman" title="Postman" />
-    <img src="assets/drawings/badges/swagger.svg" align="top" alt="Swagger" title="Swagger" />
-    <img src="assets/drawings/badges/virtualbox.svg" align="top" alt="VirtualBox" title="VirtualBox" /><br/>
-    <img src="assets/drawings/badges/vmware.svg" align="top" alt="VMware Fusion" title="VMware Fusion" />
-    <img src="assets/drawings/badges/apple.svg" align="top" alt="macOS" title="macOS" />
-    <img src="assets/drawings/badges/windows.svg" align="top" alt="Windows" title="Windows" />
-    <img src="assets/drawings/badges/archlinux.svg" align="top" alt="Arch Linux" title="Arch Linux" />
-    <img src="assets/drawings/badges/ubuntu.svg" align="top" alt="Ubuntu on WSL" title="Ubuntu on WSL" />
-  </td></tr></tbody>
-</table>
+<p align="center">
+  <a name="skills-programming-languages"><img src="assets/drawings/skills/programming-languages.svg" width="49%" alt="Programming Languages: Python, C, C++, R, JavaScript, Dart, Rust, Bash, LaTeX, Typst" /></a>
+  <a name="skills-ai-machine-learning"><img src="assets/drawings/skills/ai-machine-learning.svg" width="49%" alt="AI &amp; Machine Learning: PyTorch, scikit-learn, Hugging Face, OpenCV, Intel OpenVINO, NVIDIA Jetson" /></a>
+  <a name="skills-data-science-analytics"><img src="assets/drawings/skills/data-science-analytics.svg" width="49%" alt="Data Science &amp; Analytics: NumPy, pandas, Matplotlib, Seaborn, Jupyter, Anaconda, Tableau" /></a>
+  <a name="skills-web-app-development"><img src="assets/drawings/skills/web-app-development.svg" width="49%" alt="Web &amp; App Development: Flutter, Django, Node.js, WebAssembly, PyQt, PyGame" /></a>
+  <a name="skills-databases-big-data"><img src="assets/drawings/skills/databases-big-data.svg" width="49%" alt="Databases &amp; Big Data: MySQL, PostgreSQL, SQLite, Apache Spark" /></a>
+  <a name="skills-testing-apis"><img src="assets/drawings/skills/testing-apis.svg" width="49%" alt="Testing &amp; APIs: pytest, Selenium, Postman, Swagger" /></a>
+  <a name="skills-developer-tools"><img src="assets/drawings/skills/developer-tools.svg" width="49%" alt="Developer Tools: Git, Docker, FFmpeg, VirtualBox, VMware Fusion" /></a>
+  <a name="skills-operating-systems"><img src="assets/drawings/skills/operating-systems.svg" width="49%" alt="Operating Systems: Windows, macOS, Arch Linux, Ubuntu on WSL" /></a>
+</p>
 
 <p align="center"><img src="assets/drawings/pencil.svg" width="420" alt="" /></p>
