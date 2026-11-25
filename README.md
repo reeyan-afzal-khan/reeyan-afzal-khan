@@ -1,86 +1,26 @@
-<p align="center"><b>BACKGROUND &amp; INTRODUCTION</b></p>
-
-<p align="justify">
-  Reeyan Afzal Khan holds a bachelor's degree in Computer Science from Kohat University of Science &amp; Technology (KUST) and a Master's degree in Information Technology from Universiti Teknologi PETRONAS (UTP). His technical expertise is backed by professional certifications from Google, Meta, and IBM. Additionally, he is a fluent speaker of Mandarin Chinese, supported by language certifications from Peking University and Shanghai Jiao Tong University, and holds official proficiency credentials in both IELTS (Band 7.0) and HSK Level 4.
-</p>
-
-<p align="justify">
-  Bringing international teaching experience from his tenure as a Graduate Research Assistant (GRA), Reeyan has mentored students through lab sessions and Final Year Projects (FYPs) and taught courses such as Algorithms &amp; Data Structures, Data Science, Machine Learning, and Enterprise Resource Planning.
-</p>
-
-<p align="justify">
-  Driven by a passion for collaboration, innovation, and continuous growth, Reeyan actively applies his technical and leadership skills to create a positive impact. Previously, he also served as a Vice President (Inbound) of the DC-PGSC at UTP, where he assisted in the coordination of hybrid workshops and resolved key logistical challenges to strengthen support for the postgraduate computing community.
-</p>
+<p align="center"><a name="introduction"><picture><source media="(max-width: 767px)" srcset="assets/drawings/intro-narrow.svg"/><img src="assets/drawings/intro.svg" alt="BACKGROUND &amp; INTRODUCTION. Education &amp; Credentials. Reeyan Afzal Khan holds a bachelor's degree in Computer Science from Kohat University of Science &amp; Technology (KUST) and a Master's degree in Information Technology from Universiti Teknologi PETRONAS (UTP). His technical expertise is backed by professional certifications from Google, Meta, and IBM. Additionally, he is a fluent speaker of Mandarin Chinese, supported by language certifications from Peking University and Shanghai Jiao Tong University, and holds official proficiency credentials in both IELTS (Band 7.0) and HSK Level 4. Teaching &amp; Mentoring. Bringing international teaching experience from his tenure as a Graduate Research Assistant (GRA), Reeyan has mentored students through lab sessions and Final Year Projects (FYPs) and taught courses such as Algorithms &amp; Data Structures, Data Science, Machine Learning, and Enterprise Resource Planning. Leadership &amp; Community. Driven by a passion for collaboration, innovation, and continuous growth, Reeyan actively applies his technical and leadership skills to create a positive impact. Previously, he also served as a Vice President (Inbound) of the DC-PGSC at UTP, where he assisted in the coordination of hybrid workshops and resolved key logistical challenges to strengthen support for the postgraduate computing community." /></picture></a></p>
 
 <!--
   Generated from Typst sources kept outside this repository; edits made here
   are overwritten by the next build.
 -->
 
-<p align="center"><b>CONNECT WITH ME</b></p>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/reeyan-afzal-khan/">
-        <img src="assets/logos/links/linkedin.svg" width="55" height="55" alt="LinkedIn" title="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.com/users/969167942392631326/">
-        <img src="assets/logos/links/discord.svg" width="55" height="55" alt="Discord" title="Discord" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.researchgate.net/profile/Reeyan-Khan?ev=hdr_xprf">
-        <img src="assets/logos/links/researchgate.svg" width="55" height="55" alt="ResearchGate" title="ResearchGate" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><b>PROFILE &amp; PORTFOLIO</b></p>
-<table align="center">
-  <tr>
-    <th align="center">freeCodeCamp</th>
-    <th align="center">LeetCode</th>
-    <th align="center">HackerRank</th>
-    <th align="center">Credly</th>
-    <th align="center">ORCID</th>
-    <th align="center">YouTube</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.freecodecamp.org/reeyan-afzal-khan">
-        <img src="assets/logos/links/freecodecamp.svg" width="65" height="50" alt="freeCodeCamp" title="freeCodeCamp" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/reeyan-afzal-khan/">
-        <img src="assets/logos/links/leetcode.png" width="55" height="55" alt="LeetCode" title="LeetCode" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/profile/reeyanafzalkhan">
-        <img src="assets/logos/links/hackerrank.svg" width="55" height="55" alt="HackerRank" title="HackerRank" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/users/reeyan-afzal-khan">
-        <img src="assets/logos/links/credly.svg" width="55" height="55" alt="Credly" title="Credly" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://orcid.org/0009-0009-2547-2067">
-        <img src="assets/logos/links/orcid.svg" width="60" height="57" alt="ORCID" title="ORCID" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/@reeyan-afzal-khan">
-        <img src="assets/logos/links/youtube.svg" width="55" height="55" alt="YouTube" title="YouTube" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a name="links-label-connect-with-me"><img src="assets/drawings/links/label-connect-with-me.svg" align="absmiddle" alt="Connect with me" /></a>
+<a name="links-break-1"><picture><source media="(max-width: 1279px)" srcset="assets/drawings/links/break.svg"/><img src="assets/drawings/links/dot.svg" align="absmiddle" alt="" /></picture></a>
+<a href="https://www.linkedin.com/in/reeyan-afzal-khan/"><img src="assets/drawings/links/linkedin.svg" width="52" height="52" align="absmiddle" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://www.researchgate.net/profile/Reeyan-Khan?ev=hdr_xprf"><img src="assets/drawings/links/researchgate.svg" width="52" height="52" align="absmiddle" alt="ResearchGate" title="ResearchGate" /></a>
+<a href="https://orcid.org/0009-0009-2547-2067"><img src="assets/drawings/links/orcid.svg" width="52" height="52" align="absmiddle" alt="ORCID" title="ORCID" /></a>
+<a href="https://scholar.google.com/citations?user=UGLsNIsAAAAJ&hl=en"><img src="assets/drawings/links/google-scholar.svg" width="52" height="52" align="absmiddle" alt="Google Scholar" title="Google Scholar" /></a>
+<a name="links-gap-1"><picture><source media="(max-width: 1279px)" srcset="assets/drawings/links/break.svg"/><img src="assets/drawings/links/gap.svg" align="absmiddle" alt="" /></picture></a>
+<a name="links-label-portfolio"><img src="assets/drawings/links/label-portfolio.svg" align="absmiddle" alt="Portfolio" /></a>
+<a name="links-break-2"><picture><source media="(max-width: 1279px)" srcset="assets/drawings/links/break.svg"/><img src="assets/drawings/links/dot.svg" align="absmiddle" alt="" /></picture></a>
+<a href="https://www.freecodecamp.org/reeyan-afzal-khan"><img src="assets/drawings/links/freecodecamp.svg" width="52" height="52" align="absmiddle" alt="freeCodeCamp" title="freeCodeCamp" /></a>
+<a href="https://leetcode.com/u/reeyan-afzal-khan/"><img src="assets/drawings/links/leetcode.svg" width="52" height="52" align="absmiddle" alt="LeetCode" title="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/reeyanafzalkhan"><img src="assets/drawings/links/hackerrank.svg" width="52" height="52" align="absmiddle" alt="HackerRank" title="HackerRank" /></a>
+<a href="https://www.credly.com/users/reeyan-afzal-khan"><img src="assets/drawings/links/credly.svg" width="52" height="52" align="absmiddle" alt="Credly" title="Credly" /></a>
+<a href="https://www.youtube.com/@reeyan-afzal-khan"><img src="assets/drawings/links/youtube.svg" width="52" height="52" align="absmiddle" alt="YouTube" title="YouTube" /></a>
+</p>
 
 <p align="center"><img src="assets/drawings/repo-tree.svg" width="100%" alt="Repo tree: every repository grouped into Research, Projects, Courses &amp; Workshops and Private Repositories; private ones are dashed, with a padlock." /></p>
 
@@ -118,7 +58,7 @@
 
 <p align="center"><img src="assets/drawings/strips/private-repositories.svg" alt="private repositories" /></p>
 
-<p align="center">If you want to discuss, ask me on <a href="https://www.linkedin.com/in/reeyan-afzal-khan/">LinkedIn</a>.</p>
+<p align="center"><a href="https://www.linkedin.com/in/reeyan-afzal-khan/"><img src="assets/drawings/captions/private-repositories.svg" alt="If you want to discuss, ask me on LinkedIn." /></a></p>
 
 <p align="center"><img src="assets/drawings/cards/tools.svg" width="49%" alt="tools: Personal Toolkit (private)" /></p>
 
@@ -128,66 +68,54 @@
 
 <p align="center"><img src="assets/drawings/strips/documents.svg" alt="Documents: certificates and letters" /></p>
 
-<table align="center">
-  <tbody><tr><td align="left" valign="top" width="845">
-    <a name="experience-top"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="experience-icon"><img src="assets/drawings/icons/briefcase.svg" width="28" height="20" align="absmiddle" alt="" /></a><b>EXPERIENCE</b><a name="experience-head"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br/>
+<p>
+    <a name="experience-heading"><img src="assets/drawings/documents/heading-experience.svg" width="190" height="66" align="top" alt="Experience" /></a><br/>
     <a name="experience-1-utp-1-tile"><img src="assets/drawings/documents/experience-1-utp-1.svg" align="left" alt="UTP logo" /></a>
     <b>Universiti Teknologi PETRONAS</b><a name="experience-1-utp-1-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    Perak, Malaysia<a name="experience-1-utp-1-2-end"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br clear="all"/>
+    Perak, Malaysia <a name="experience-1-utp-1-2"><img src="assets/drawings/documents/dates-1-yr-11-mos.svg" width="82" height="24" align="top" alt="1 yr 11 mos" /></a><a name="experience-1-utp-1-2-end"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br clear="all"/>
     <a name="experience-1-utp-2-tile"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/experience-1-utp-2-phone.svg"/><img src="assets/drawings/documents/experience-1-utp-2.svg" align="left" alt="" /></picture></a>
-    <b>Vice President (Inbound), DC-PGSC</b><a name="experience-1-utp-2-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="experience-1-utp-2-2"><img src="assets/drawings/documents/dates-jan-2025-present.svg" width="102" height="24" align="top" alt="Jan 2025 – Present" /></a><br/>
-    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-DC-PGSC.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-experience-letter-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-experience-letter-light.svg"/><img src="assets/drawings/documents/tag-experience-letter-light.svg" width="135" height="24" align="top" alt="Experience letter" /></picture></a><a name="experience-1-utp-2-3-end"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br clear="all"/>
+    <b>Vice President (Inbound), DC-PGSC</b> <a name="experience-1-utp-2-1"><img src="assets/drawings/documents/dates-jan-2026-present-11-mos.svg" width="169" height="24" align="top" alt="Jan 2026 – Present · 11 mos" /></a><a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-DC-PGSC.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-experience-letter.svg" align="right" alt="Experience letter" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-DC-PGSC.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-experience-letter.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Experience letter" /></picture></a><br clear="all"/>
+    <a name="experience-1-utp-2-about"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/experience-1-utp-2-about-phone.svg"/><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/experience-1-utp-2-about-dark.svg"/><img src="assets/drawings/documents/experience-1-utp-2-about.svg" align="top" alt="In addition to my master's studies, I also served as the elected (inbound) vice president of the DC-PGSC (Department of Computing Postgraduate Student Council). My responsibilities included coordinating hybrid (online and physical) workshop sessions and resolving logistical issues faced by students in the department." /></picture></a><br/>
     <a name="experience-1-utp-3-tile"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/experience-1-utp-3-phone.svg"/><img src="assets/drawings/documents/experience-1-utp-3.svg" align="left" alt="" /></picture></a>
-    <b>Graduate Research Assistant (GRA)</b><a name="experience-1-utp-3-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="experience-1-utp-3-2"><img src="assets/drawings/documents/dates-jan-2025-present.svg" width="102" height="24" align="top" alt="Jan 2025 – Present" /></a><br/>
-    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-GRA.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-experience-letter-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-experience-letter-light.svg"/><img src="assets/drawings/documents/tag-experience-letter-light.svg" width="135" height="24" align="top" alt="Experience letter" /></picture></a><br clear="all"/>
-    <a name="experience-rule-1"><img src="assets/drawings/documents/rule.svg" width="818" height="25" align="top" alt="" /></a><br/>
+    <b>Graduate Research Assistant (GRA)</b> <a name="experience-1-utp-3-1"><img src="assets/drawings/documents/dates-jan-2025-present-1-yr-11-mos.svg" width="191" height="24" align="top" alt="Jan 2025 – Present · 1 yr 11 mos" /></a><a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-GRA.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-experience-letter.svg" align="right" alt="Experience letter" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-UTP-GRA.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-experience-letter.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Experience letter" /></picture></a><br clear="all"/>
+    <a name="experience-1-utp-3-about"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/experience-1-utp-3-about-phone.svg"/><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/experience-1-utp-3-about-dark.svg"/><img src="assets/drawings/documents/experience-1-utp-3-about.svg" align="top" alt="Conducted laboratory and tutorial sessions for foundation and undergraduate students, and developed instructional materials and lab setup tools, available on GitHub at UTP-TA-LABS." /></picture></a><br clear="all"/>
+    <a name="experience-rule-1"><img src="assets/drawings/documents/rule.svg" width="846" height="25" align="top" alt="" /></a><br/>
     <a name="experience-2-nic-1-tile"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/experience-2-nic-phone.svg"/><img src="assets/drawings/documents/experience-2-nic.svg" align="left" alt="NIC logo" /></picture></a>
     <b>Founder and app developer, Hanzai</b><a name="experience-2-nic-1-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    NEP-NIC (PITB), Kohat<a name="experience-2-nic-1-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="experience-2-nic-1-3"><img src="assets/drawings/documents/dates-sep-2022-feb-2023.svg" width="109" height="24" align="top" alt="Sep 2022 – Feb 2023" /></a><br/>
-    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-NEP-NIC.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-experience-letter-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-experience-letter-light.svg"/><img src="assets/drawings/documents/tag-experience-letter-light.svg" width="135" height="24" align="top" alt="Experience letter" /></picture></a><br clear="all"/>
-    <a name="experience-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a>
-  </td></tr></tbody>
-</table>
-<table align="center">
-  <tbody><tr><td align="left" valign="top" width="845">
-    <a name="education-top"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="education-icon"><img src="assets/drawings/icons/cap.svg" width="28" height="20" align="absmiddle" alt="" /></a><b>EDUCATION</b><a name="education-head"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br/>
-    <a name="education-1-utp-1-tile"><img src="assets/drawings/documents/education-1-utp.svg" align="left" alt="UTP logo" /></a>
+    NEP-NIC (PITB), Kohat <a name="experience-2-nic-1-2"><img src="assets/drawings/documents/dates-sep-2022-feb-2023-6-mos.svg" width="170" height="24" align="top" alt="Sep 2022 – Feb 2023 · 6 mos" /></a><a href="assets/documents/Reeyan-Afzal-Experience-Letter-NEP-NIC.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-experience-letter.svg" align="right" alt="Experience letter" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-Experience-Letter-NEP-NIC.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-experience-letter.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Experience letter" /></picture></a><br clear="all"/>
+    <a name="experience-2-nic-1-about"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/experience-2-nic-1-about-phone.svg"/><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/experience-2-nic-1-about-dark.svg"/><img src="assets/drawings/documents/experience-2-nic-1-about.svg" align="top" alt="Turned my FYP into a startup idea, where I worked on a mobile application, Hanzai, that helps people learn to read and write Chinese characters faster. The idea was supervised and mentored by Dr. Jawad Ashraf (Assistant Professor, KUST)." /></picture></a><br clear="all"/>
+</p>
+
+<p>
+    <a name="education-heading"><img src="assets/drawings/documents/heading-education.svg" width="179" height="66" align="top" alt="Education" /></a><br/>
+    <a name="education-1-utp-1-tile"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/education-1-utp-phone.svg"/><img src="assets/drawings/documents/education-1-utp.svg" align="left" alt="UTP logo" /></picture></a>
     <b>Universiti Teknologi PETRONAS</b><a name="education-1-utp-1-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    MSc Information Technology<a name="education-1-utp-1-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a href="assets/documents/Reeyan-Afzal-MSc-Degree.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-degree-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-degree-light.svg"/><img src="assets/drawings/documents/tag-degree-light.svg" width="85" height="24" align="top" alt="Degree" /></picture></a>
-    <a href="assets/documents/Reeyan-Afzal-MSc-Transcript.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-transcript-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-transcript-light.svg"/><img src="assets/drawings/documents/tag-transcript-light.svg" width="101" height="24" align="top" alt="Transcript" /></picture></a><br clear="all"/>
-    <a name="education-rule-1"><img src="assets/drawings/documents/rule.svg" width="818" height="25" align="top" alt="" /></a><br/>
+    MSc Information Technology <a name="education-1-utp-1-2"><img src="assets/drawings/documents/dates-jan-2025-dec-2026.svg" width="129" height="24" align="top" alt="Jan 2025 – Dec 2026" /></a><a href="assets/documents/Reeyan-Afzal-MSc-Transcript.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-transcript.svg" align="right" alt="Transcript" /></picture></a><a href="assets/documents/Reeyan-Afzal-MSc-Degree.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-degree.svg" align="right" alt="Degree" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-MSc-Degree.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-degree.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Degree" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-MSc-Transcript.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-transcript.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Transcript" /></picture></a><br clear="all"/>
+    <a name="education-rule-1"><img src="assets/drawings/documents/rule.svg" width="846" height="25" align="top" alt="" /></a><br/>
     <a name="education-2-kust-1-tile"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/education-2-kust-phone.svg"/><img src="assets/drawings/documents/education-2-kust.svg" align="left" alt="KUST logo" /></picture></a>
     <b>Kohat University of Science and Technology</b><a name="education-2-kust-1-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    BS Computer Science<a name="education-2-kust-1-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a href="assets/documents/Reeyan-Afzal-BS-Degree.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-degree-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-degree-light.svg"/><img src="assets/drawings/documents/tag-degree-light.svg" width="85" height="24" align="top" alt="Degree" /></picture></a>
-    <a href="assets/documents/Reeyan-Afzal-BS-Transcript.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-transcript-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-transcript-light.svg"/><img src="assets/drawings/documents/tag-transcript-light.svg" width="101" height="24" align="top" alt="Transcript" /></picture></a><br clear="all"/>
-    <a name="education-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a>
-  </td></tr></tbody>
-</table>
-<table align="center">
-  <tbody><tr><td align="left" valign="top" width="845">
-    <a name="language-top"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="language-icon"><img src="assets/drawings/icons/language.svg" width="28" height="20" align="absmiddle" alt="" /></a><b>LANGUAGE PROFICIENCY</b><a name="language-head"><img src="assets/drawings/struts/36.svg" width="4" height="36" align="top" alt="" /></a><br/>
-    <a name="language-1-ielts-1-tile"><img src="assets/drawings/documents/language-1-ielts.svg" align="left" alt="IELTS logo" /></a>
+    BS Computer Science · CGPA 3.26 / 4.00 <a name="education-2-kust-1-2"><img src="assets/drawings/documents/dates-sep-2019-jul-2023.svg" width="126" height="24" align="top" alt="Sep 2019 – Jul 2023" /></a><a href="assets/documents/Reeyan-Afzal-BS-Transcript.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-transcript.svg" align="right" alt="Transcript" /></picture></a><a href="assets/documents/Reeyan-Afzal-BS-Degree.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-degree.svg" align="right" alt="Degree" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-BS-Degree.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-degree.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Degree" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-BS-Transcript.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-transcript.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Transcript" /></picture></a><br clear="all"/>
+</p>
+
+<p>
+    <a name="language-heading"><img src="assets/drawings/documents/heading-language.svg" width="264" height="66" align="top" alt="Language Proficiency" /></a><br/>
+    <a name="language-1-ielts-1-tile"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/language-1-ielts-phone.svg"/><img src="assets/drawings/documents/language-1-ielts.svg" align="left" alt="IELTS logo" /></picture></a>
     <b>IELTS Academic, band 7.0 (C1)</b><a name="language-1-ielts-1-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    English<a name="language-1-ielts-1-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="language-1-ielts-1-3"><img src="assets/drawings/documents/dates-2023-2025.svg" width="64" height="24" align="top" alt="2023 – 2025" /></a><br/>
-    <a href="assets/documents/Reeyan-Afzal-Certificate-IELTS-2023.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-certificate-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-certificate-light.svg"/><img src="assets/drawings/documents/tag-certificate-light.svg" width="102" height="24" align="top" alt="Certificate" /></picture></a><br clear="all"/>
-    <a name="language-rule-1"><img src="assets/drawings/documents/rule.svg" width="818" height="25" align="top" alt="" /></a><br/>
-    <a name="language-2-hsk-1-tile"><img src="assets/drawings/documents/language-2-hsk.svg" align="left" alt="HSK logo" /></a>
+    English <a name="language-1-ielts-1-2"><img src="assets/drawings/documents/dates-2023-2025.svg" width="84" height="24" align="top" alt="2023 – 2025" /></a><a href="assets/documents/Reeyan-Afzal-Certificate-IELTS-2023.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-certificate.svg" align="right" alt="Certificate" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-Certificate-IELTS-2023.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-certificate.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Certificate" /></picture></a><br clear="all"/>
+    <a name="language-rule-1"><img src="assets/drawings/documents/rule.svg" width="846" height="25" align="top" alt="" /></a><br/>
+    <a name="language-2-hsk-1-tile"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/language-2-hsk-phone.svg"/><img src="assets/drawings/documents/language-2-hsk.svg" align="left" alt="HSK logo" /></picture></a>
     <b>HSK 4 and HSKK 2</b><a name="language-2-hsk-1-1-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    Chinese (Mandarin)<a name="language-2-hsk-1-2-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a><br/>
-    <a name="language-2-hsk-1-3"><img src="assets/drawings/documents/dates-2024-2026.svg" width="64" height="24" align="top" alt="2024 – 2026" /></a><br/>
-    <a href="assets/documents/Reeyan-Afzal-Certificate-HSK4-2024.jpeg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drawings/documents/tag-certificate-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/drawings/documents/tag-certificate-light.svg"/><img src="assets/drawings/documents/tag-certificate-light.svg" width="102" height="24" align="top" alt="Certificate" /></picture></a><br clear="all"/>
-    <a name="language-end"><img src="assets/drawings/struts/24.svg" width="4" height="24" align="top" alt="" /></a>
-  </td></tr></tbody>
-</table>
+    Chinese (Mandarin) <a name="language-2-hsk-1-2"><img src="assets/drawings/documents/dates-2024-2026.svg" width="84" height="24" align="top" alt="2024 – 2026" /></a><a href="assets/documents/Reeyan-Afzal-Certificate-HSK4-2024.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/blank.svg"/><img src="assets/drawings/documents/tag-certificate.svg" align="right" alt="Certificate" /></picture></a>
+    <a href="assets/documents/Reeyan-Afzal-Certificate-HSK4-2024.jpeg"><picture><source media="(max-width: 767px)" srcset="assets/drawings/documents/tag-certificate.svg"/><img src="assets/drawings/documents/blank.svg" align="top" alt="Certificate" /></picture></a><br clear="all"/>
+</p>
 
 <p align="center"><img src="assets/drawings/divider.svg" width="100%" alt="" /></p>
 
